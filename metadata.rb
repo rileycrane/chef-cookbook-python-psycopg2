@@ -1,0 +1,5 @@
+name             "chef-cookbook-python-psycopg2"
+maintainer       ""
+maintainer_email ""
+license          ""
+description      "Installs python-psycopg2 on Ubuntu."
